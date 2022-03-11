@@ -1,5 +1,5 @@
 # BHMM Core
-`Better HTML Main Menu is a very simple edit to the gmod main menu that permits the loading of a secondary html file as an overlay.`
+`Better HTML Main Menu is a simple edit to the gmod main menu that permits the loading of a secondary html file as an overlay.`
 
 To customize the overlay simply modify the files contained in the `background` folder.
 
