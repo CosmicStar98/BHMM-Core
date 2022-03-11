@@ -5,7 +5,8 @@ To customize the overlay simply modify the files contained in the `background` f
 
 Note: Interactive html content doesn't work. 😒 (this includes things like: mouse and keyboard events)
 
-Examples:
+Example:
 
 
-https://user-images.githubusercontent.com/58494315/157978646-64e08787-282e-473c-84b0-50d261fec7c2.mp4
+https://user-images.githubusercontent.com/58494315/157978856-76dd1c47-fca1-4847-ae7a-6dfb8ec0ffeb.mp4
+
